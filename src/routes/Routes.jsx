@@ -16,6 +16,7 @@ function Router(){
                 <Route path="/series" element={<Series />} />
             </Route>
         </Routes>
+        </Routes>
     )
 }
 export default Router;
