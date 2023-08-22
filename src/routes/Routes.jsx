@@ -3,6 +3,7 @@ import DefaultLayout from '../layout/DefaultLayout'
 
 import Home from '../containers/Home'
 import Movies from '../containers/Movies'
+
 import Series from '../containers/series'
 
 
